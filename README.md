@@ -1,4 +1,5 @@
 # portfolio
 Selection of showcase projects
 
-Lets remove the update and use it as a second test
+Check out the selection of projects using the link below
+https://mybinder.org/v2/gh/LiemMichael/portfolio/main?urlpath=voila/render/portfolio.ipynb
