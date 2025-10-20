@@ -9,3 +9,9 @@ https://mybinder.org/v2/gh/LiemMichael/portfolio/main?urlpath=voila/render/portf
 
 <br></br>
 https://mybinder.org/v2/gh/LiemMichael/portfolio/main?urlpath=voila/render/portfolio.ipynb&template=material
+
+# My Portfolio
+
+Click the badge below to open the interactive portfolio with Voilà in dark mode:
+
+[![Open in Voilà](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LiemMichael/portfolio/main?urlpath=voila/render/portfolio.ipynb)
